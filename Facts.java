@@ -29,6 +29,8 @@ public class Facts
                             + "the parachute: " + 1515);
         
         System.out.println("Speed of ketchup: " + 40 + "km per year");
+        
+        System.out.println("nolan nolan nolan nolan nolan nolan");
     
     
         int num;
